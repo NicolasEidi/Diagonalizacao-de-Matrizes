@@ -1,4 +1,4 @@
-# Diagonalizacao de Matrizes 
+# Diagonalização de Matrizes 
 
 ## Programa feito na matéria de Geometria Analítica e Álgebra Linear
 
