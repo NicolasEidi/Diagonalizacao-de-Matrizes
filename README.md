@@ -26,5 +26,5 @@ Exemplo de matriz Linearmente Independente:
 <img src="https://github.com/NicolasEidi/Diagonalizacao-de-Matrizes/assets/101011656/46873592-66fe-4702-9d35-39424981952a" width="700px" />
 </div>
 <br><br>
-Para executar o programa basta baixar os arquivos, e então acessando a pasta src/dist executar o arquivo main.exe.
+Para executar o programa basta baixar os arquivos em Download ZIP, e então acessando a pasta src/dist executar o arquivo main.exe.
 
